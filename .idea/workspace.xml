@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c9938f7-e52e-4dc0-8ba4-474bdfaee863" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/default-skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/jquery.fancybox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/meanmenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/call-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/casino1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/casino2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/casino3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/casino4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/casino5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/casino6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/casino7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/coins-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/double-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/drop-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fb-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/instagram-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jigsaw-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/left-quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/linkedin-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mail-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/map-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/poker-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/right-quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toogle-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twitter-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.0.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modernizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slider-setting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LAxIUsniNRky0YDRHkJaMcdtkj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Downloads/html&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c9938f7-e52e-4dc0-8ba4-474bdfaee863" name="Changes" comment="" />
+      <created>1675327609739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675327609739</updated>
+      <workItem from="1675327610917" duration="901000" />
+      <workItem from="1675331559260" duration="2726000" />
+      <workItem from="1675402126143" duration="12000" />
+      <workItem from="1675402293137" duration="30000" />
+      <workItem from="1675412735505" duration="2337000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
